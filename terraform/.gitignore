@@ -1,0 +1,7 @@
+.terraform
+.terraform.lock*
+example.tfplan
+graph.dot
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
